@@ -1,5 +1,6 @@
 # 12.5 Avid VENUE S6L
 
+
 Currently, Spat Send is the only available plug-in from Flux:: for the Spat Revolution integration to **Avid VENUE S6L** platform. The mono or stereo plug-in instances provide the integration of the Spat source parameters into the channel strip (insertion on the channel for source parameter control, no audio processing) 
 
 The plug-in offers the ability to control the Spat object/source parameters and automate them within the VENUE show file and the VENUE Snapshot system. Ultimately having a completely integrated control of the objects in the 3D space. Added to the Spat Revolution source parameters are global and per parameter time values the user is able to use to set a linear morphing between two parameter states over a period of time to create smooth transitions. Thus creating movements in time with the VENUE Snapshots.
